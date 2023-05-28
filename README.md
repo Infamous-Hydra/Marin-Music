@@ -15,7 +15,7 @@ Deploy and add your management bots token for getting vc player system in one bo
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Infamous-Hydra/MikoMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/Infamous-Hydra/Miko-Music/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -46,7 +46,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env or :q
 
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Infamous-Hydra/MikoMusic">
+        <a href="https://heroku.com/deploy?template=https://github.com/Infamous-Hydra/Miko-Music">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
