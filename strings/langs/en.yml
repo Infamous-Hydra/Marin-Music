@@ -53,8 +53,8 @@ admin_14 : "Atleast 2 tracks needed in queue to skip to a specific number. Check
 admin_15 : "Not enough tracks in queue for the value given by you. Please choose numbers between 1 and {0}"
 admin_16 : "Failed to skip to specific track.\n\nCheck left queue by /queue"
 admin_17 : "{0}.. Please Wait"
-admin_18 : "Admin List Not Found\n\nPlease reload adminlist via /admincache or /reload"
-admin_19 : "You need to be admin with manage voice chat rights to perform this.\nIf you're already admin, reload admincache via /admincache "
+admin_18 : "Admin List Not Found\n\nPlease reload adminlist via /musicadmincache or /musicreload"
+admin_19 : "You need to be admin with manage voice chat rights to perform this.\nIf you're already admin, reload admincache via /musicadmincache "
 admin_20 : "Admin cache reloaded successfully."
 admin_21 : "Nothing inside queue to shuffle"
 admin_22 : "Failed to shuffle.\n\nCheck queue : /queue"
@@ -237,10 +237,10 @@ stream_4 : "➻ **sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ** \n\n**🏷Title:** 
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "💫 ᴄʟᴏsᴇ"
-CLOSEMENU_BUTTON  : "💫 ᴄʟᴏsᴇ ᴍᴇɴᴜ"
+CLOSE_BUTTON  : " ᴄʟᴏsᴇ"
+CLOSEMENU_BUTTON  : "ᴄʟᴏsᴇ ᴍᴇɴᴜ"
 BACK_BUTTON : "⬅ ʙᴀᴄᴋ"
-UNBAN_BUTTON : "💫 Unban Assistant"
+UNBAN_BUTTON : "Unban Assistant"
 
 #Lyrics
 L_B_1 : "Checkout Lyrics Now"
