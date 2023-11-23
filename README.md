@@ -3,8 +3,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d81868374fc294b16ef79.jpg">
+  <img src="https://telegra.ph/file/d81868374fc294b16ef79.jpg" width="300">
 </p>
+
 
 This is a Group Management based Vc Player, Music Bot Repo, forked from [YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot). 
 Start, Help, Ping, Languages and some files are removed.
