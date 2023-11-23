@@ -43,11 +43,15 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env or :q
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 
+<h1 align="center">Deploy on Heroku</h1>
 
-<h1>
-    <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Infamous-Hydra/Miko-Music">
-            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-        </a>
-    </p>
-</h1>
+<p align="center">Click the button below to deploy MIKO ダ MUSIC on Heroku and enjoy its enhanced features and user-friendly interface! 🎶🤖</p>
+
+<p align="center">
+    <a href="https://heroku.com/deploy?template=https://github.com/Infamous-Hydra/Miko-Music">
+        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+    </a>
+</p>
+
+━━━━━━━━━━━━━━━━━━━━
+
