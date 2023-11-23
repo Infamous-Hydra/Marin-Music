@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ダ MUSIC 」──
+    ──「 SYLVIE ダ MUSIC 」──
 </h2>
 
 <p align="center">
@@ -45,7 +45,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env or :q
 
 <h1 align="center">Deploy on Heroku</h1>
 
-<p align="center">Click the button below to deploy ダ MUSIC on Heroku and enjoy its enhanced features and user-friendly interface! 🎶🤖</p>
+<p align="center">Click the button below to deploy SYLVIE ダ MUSIC on Heroku and enjoy its enhanced features and user-friendly interface! 🎶🤖</p>
 
 <p align="center">
     <a href="https://heroku.com/deploy?template=https://github.com/Infamous-Hydra/Miko-Music">
