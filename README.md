@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 SYLVIE ダ MUSIC 」──
+    ──「 MARIN ダ MUSIC 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f081603a1947799bdefd1.jpg">
+  <img src="[https://telegra.ph/file/f081603a1947799bdefd1.jpg](https://telegra.ph/file/d81868374fc294b16ef79.jpg)">
 </p>
 
 This is a Group Management based Vc Player, Music Bot Repo, forked from [YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot). 
@@ -45,7 +45,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env or :q
 
 <h1 align="center">Deploy on Heroku</h1>
 
-<p align="center">Click the button below to deploy SYLVIE ダ MUSIC on Heroku and enjoy its enhanced features and user-friendly interface! 🎶🤖</p>
+<p align="center">Click the button below to deploy MARIN ダ MUSIC on Heroku and enjoy its enhanced features and user-friendly interface! 🎶🤖</p>
 
 <p align="center">
     <a href="https://heroku.com/deploy?template=https://github.com/Infamous-Hydra/Miko-Music">
