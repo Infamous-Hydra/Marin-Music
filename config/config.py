@@ -31,7 +31,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MikoMusic")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MarinMusic")
 
 # Your User ID.
 OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))  # Input type must be interger
@@ -45,7 +45,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Infamous-Hydra/Miko-Music",
+    "https://github.com/Infamous-Hydra/Marin-Music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
