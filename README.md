@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 MARIN ダ MUSIC 」──
+    ──「 RAJA ダ MUSIC 」──
 </h2>
 
 <p align="center">
